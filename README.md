@@ -50,7 +50,3 @@ By analyzing revenue, product performance, and regional trends, this dashboard h
 3. Standardized column names for consistency.  
 4. Ensured correct data types (dates, numbers, text).  
 5. Created calculated columns/measures for KPIs.  
-
----
-
-## 📂 Project Structure
